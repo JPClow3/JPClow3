@@ -2,7 +2,7 @@
 ## 🚀 Sobre mim
 João Paulo G. Santos
 
-Formando em Engenharia de Software pela UniRV, apaixonado por tech. Conhecimento em C, Git, Github, HTML, CSS.
+Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conhecimento em C, Git, Github, HTML, CSS.
 
 
 
