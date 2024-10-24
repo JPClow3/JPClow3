@@ -14,7 +14,7 @@ Javascript, HTML, CSS, C e Git e Versionamento
 
 
 ## Mais sobre mim
-👩‍💻 Trabalho atualmente na ALIARE como Assistente de Suporte
+👩‍💻 Trabalho atualmente na ...
 
 🧠 Estou aprendendo C e Front End
 
