@@ -1,0 +1,40 @@
+name: Update README Activity
+
+on:
+  # Run automatically every hour
+  schedule:
+    - cron: "0 * * * *" # Runs at the start of every hour
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Update README with recent GitHub activity
+    runs-on: ubuntu-latest
+
+    # Grant permissions for the action to write to the repository contents
+    permissions:
+      contents: write
+
+    steps:
+      # Step 1: Check out your repository's code so the workflow can access the README.md
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Step 2: Run the Action to update the README
+      # Use the specific version v0.4.5 as recommended
+      - name: Update README with recent activity
+        uses: jamesgeorge007/github-activity-readme@v0.4.5
+        env:
+          # Use the automatically generated GITHUB_TOKEN for authentication
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          # Optional: Customize the commit message
+          COMMIT_MSG: 'Docs: Update README with recent GitHub activity'
+          # Optional: Customize the committer name
+          COMMIT_NAME: 'GitHub Activity Bot'
+          # Optional: Set the maximum number of activity lines to show
+          MAX_LINES: 10 # Default is 5, increase if you want more activity shown
+          # Optional: Change if your target file is not README.md
+          # TARGET_FILE: 'README.md' # Default is README.md, no need to uncomment unless different
