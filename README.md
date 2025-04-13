@@ -43,6 +43,7 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
 
 </p>
 
+
 ## Mais sobre mim
 👩‍💻 Em busca de oportunidades ...
 
@@ -50,24 +51,27 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
 
 👯‍♀️ Procuro colaborar em projetos acadêmicos
 
+
 ## ⚡ Atividade Recente no GitHub
 <!--START_SECTION:activity-->
 <!-- A Atividade do GitHub será inserida dinamicamente aqui por uma GitHub Action -->
 <!--END_SECTION:activity-->
 
-## 📫 Como entrar em contato comigo ?
-Encontre-me nos links abaixo:
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#) Work in Progress...
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopaulosantosgo/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JP_Clow3)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:joaopaulo.grv4@gmail.com)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/joaopaulo_grv4)
 
+
 ---
 
+
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/joaopaulo.grv10)
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=30A3DC&height=100§ion=header" width="100%" alt="Divider Wave">
