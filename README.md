@@ -7,7 +7,6 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Web+Developer+;Front-End)](https://git.io/typing-svg)
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/kautukkundan/kautukkundan/master/wave.svg" width="100%" alt="Divider">
 </p>
@@ -35,10 +34,7 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
 ## ✨ Projetos em Destaque
 
 <p align="center">
-  <a href="https://github.com/jpclow3/Estudos">
-    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jpclow3&repo=Estudos&theme=transparent&show_owner=true" alt="Meu Projeto Pinado" />
-  </a>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=30A3DC&height=100§ion=header" width="100%" alt="Divider Wave">
 </p>
 
 ## Mais sobre mim
@@ -68,5 +64,5 @@ Encontre-me nos links abaixo:
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/joaopaulo.grv10)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=30A3DC&height=100§ion=header" width="100%" alt="Divider Wave">
 </p>
