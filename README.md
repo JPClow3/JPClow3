@@ -34,7 +34,13 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
 ## ✨ Projetos em Destaque
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=30A3DC&height=100§ion=header" width="100%" alt="Divider Wave">
+  <a href="https://github.com/jpclow3/Estudos">
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jpclow3&repo=Estudos&theme=transparent&show_owner=true" alt="Meu Projeto Pinado" />
+  </a>
+  <a href="https://github.com/jpclow3/Site-Restaurante">
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jpclow3&repo=Site-Restaurante&theme=transparent&show_owner=true" alt="Meu Projeto Pinado" />
+  </a>
+
 </p>
 
 ## Mais sobre mim
