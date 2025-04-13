@@ -2,8 +2,11 @@
 ## 🚀 Sobre mim
 João Paulo G. Santos
 
-Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conhecimento em C, Git, Github, HTML, CSS.
+Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conhecimento em C, Git, Versionamento, HTML, CSS.
 
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Web+Developer+;Front-End)](https://git.io/typing-svg)
 
 
 [![jpclow3's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpclow3&show_icons=true&theme=transparent)](https://github.com/jpclow3/github-readme-stats)
