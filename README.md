@@ -6,7 +6,7 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Web+Developer+;Front-End)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/border.svg" alt="Divider" style="max-width: 100%; height: auto;" />
+  <img src="https://media.giphy.com/media/jpbhy7bcjHolpQVZWX/giphy.gif" width="100%" alt="Divider">
 </p>
 
 <!-- Start of Table for Stats and Languages -->
