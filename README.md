@@ -1,3 +1,5 @@
+---
+
 ## 🚀 Sobre mim
 João Paulo G. Santos
 
@@ -5,8 +7,9 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Web+Developer+;Front-End)](https://git.io/typing-svg)
 
+
 <p align="center">
-  <img src="https://media.giphy.com/media/jpbhy7bcjHolpQVZWX/giphy.gif" width="100%" alt="Divider">
+  <img src="https://raw.githubusercontent.com/kautukkundan/kautukkundan/master/wave.svg" width="100%" alt="Divider">
 </p>
 
 <!-- Start of Table for Stats and Languages -->
@@ -59,6 +62,8 @@ Encontre-me nos links abaixo:
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JP_Clow3)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:joaopaulo.grv4@gmail.com)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/joaopaulo_grv4)
+
+---
 
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/joaopaulo.grv10)
 
