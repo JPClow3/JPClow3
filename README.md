@@ -52,7 +52,7 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
 
 ## ⚡ Atividade Recente no GitHub
 <!--START_SECTION:activity-->
-<!-- A Atividade do GitHub será inserida dinamicamente aqui por uma GitHub Action -->
+1. 🎉 Merged PR [#1](https://github.com/JPClow3/Furia-Chat-Challenge/pull/1) in [JPClow3/Furia-Chat-Challenge](https://github.com/JPClow3/Furia-Chat-Challenge)
 <!--END_SECTION:activity-->
 
 
