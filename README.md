@@ -39,8 +39,10 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
   <a href="https://github.com/jpclow3/Site-Restaurante">
     <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jpclow3&repo=Site-Restaurante&theme=transparent&show_owner=true" alt="Meu Projeto Pinado - Site Restaurante" />
   </a>
+  <a href="https://github.com/JPClow3/Furia-Chat-Challenge">
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jpclow3&repo=Furia-Chat-Challenge&theme=transparent&show_owner=true" alt="Meu Projeto Pinado - Chat Bot Furia-CS" />
+  </a>
 </p>
-
 
 ## Mais sobre mim
 👩‍💻 Em busca de oportunidades ...
