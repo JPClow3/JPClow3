@@ -1,7 +1,7 @@
 ## 🚀 Sobre mim
 João Paulo G. Santos
 
-Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conhecimento em C, Git, Versionamento, HTML, CSS.
+Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conhecimento em C, Git, Typescript, HTML, CSS.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Web+Developer+;Front-End)](https://git.io/typing-svg)
 
@@ -28,7 +28,7 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
 ![Visitor Count](https://profile-counter.glitch.me/{JPClow3}/count.svg)
 
 ## 🛠 Habilidades & Ferramentas
-![My Skills](https://skillicons.dev/icons?i=js,html,css,c,git,vscode,linux)
+![My Skills](https://skillicons.dev/icons?i=js,html,ts,css,,git,webstorm,linux,github,gcp,)
 
 ## ✨ Projetos em Destaque
 
@@ -47,7 +47,7 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
 ## Mais sobre mim
 👩‍💻 Em busca de oportunidades ...
 
-🧠 Estou aprendendo C e Front End
+🧠 Estou aprendendo Front End e uso de AI.
 
 👯‍♀️ Procuro colaborar em projetos acadêmicos
 
