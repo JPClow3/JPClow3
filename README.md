@@ -39,7 +39,6 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
   <a href="https://github.com/jpclow3/Site-Restaurante">
     <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jpclow3&repo=Site-Restaurante&theme=transparent&show_owner=true" alt="Meu Projeto Pinado - Site Restaurante" />
   </a>
-  https://github.com/JPClow3/Fantasy-Text-Game
 <a href="https://github.com/JPClow3/Fantasy-Text-Game">
     <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jpclow3&repo=Fantasy-Text-Game&theme=transparent&show_owner=true" alt="Meu Projeto Pinado - Fantasy AI Game" />
   </a>
