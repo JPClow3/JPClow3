@@ -33,11 +33,14 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
 ## ✨ Projetos em Destaque
 
 <p align="center">
+    <a href="https://github.com/JPClow3/League-AI-Oracle">
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jpclow3&repo=League-AI-Oracle&theme=transparent&show_owner=true" alt="Meu Projeto Pinado - League Oracle" />
+  </a>
+  <a href="https://github.com/JPClow3/Fantasy-Text-Game">
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jpclow3&repo=Fantasy-Text-Game&theme=transparent&show_owner=true" alt="Meu Projeto Pinado - Fantasy AI Game" />
+  </a>
   <a href="https://github.com/jpclow3/Estudos">
     <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jpclow3&repo=Estudos&theme=transparent&show_owner=true" alt="Meu Projeto Pinado - Estudos" />
-  </a>
-  <a href="https://github.com/JPClow3/League-AI-Oracle">
-    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jpclow3&repo=League-AI-Oracle&theme=transparent&show_owner=true" alt="Meu Projeto Pinado - League Oracle" />
   </a>
   <a href="https://github.com/JPClow3/Furia-Chat-Challenge">
     <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jpclow3&repo=Furia-Chat-Challenge&theme=transparent&show_owner=true" alt="Meu Projeto Pinado - Chat Bot Furia-CS" />
