@@ -25,7 +25,6 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
 </table>
 <!-- End of Table -->
 
-![Visitor Count](https://profile-counter.glitch.me/{JPClow3}/count.svg)
 
 ## 🛠 Habilidades & Ferramentas
 ![My Skills](https://skillicons.dev/icons?i=js,html,ts,css,git,webstorm,linux,github,gcp,)
