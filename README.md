@@ -38,8 +38,8 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
   <a href="https://github.com/JPClow3/Resonant-Echoes">
     <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jpclow3&repo=Resonant-Echoes&theme=transparent&show_owner=true" alt="Meu Projeto Pinado - Resonant-Echoes" />
   </a>
-  <a href="https://github.com/jpclow3/Estudos">
-    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jpclow3&repo=Estudos&theme=transparent&show_owner=true" alt="Meu Projeto Pinado - Estudos" />
+  <a href="https://github.com/jpclow3/Portfolio">
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jpclow3&repo=Portfolio&theme=transparent&show_owner=true" alt="Meu Projeto Pinado - Portfolio" />
   </a>
   <a href="https://github.com/JPClow3/Furia-Chat-Challenge">
     <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jpclow3&repo=Furia-Chat-Challenge&theme=transparent&show_owner=true" alt="Meu Projeto Pinado - Chat Bot Furia-CS" />
