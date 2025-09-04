@@ -56,7 +56,7 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
 
 ## ⚡ Atividade Recente no GitHub
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/JPClow3/Veins-of-Erid-n/pull/8) in [JPClow3/Veins-of-Erid-n](https://github.com/JPClow3/Veins-of-Erid-n)
+1. 🎉 Merged PR [#6](https://github.com/JPClow3/Portfolio/pull/6) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
 <!--END_SECTION:activity-->
 
 
