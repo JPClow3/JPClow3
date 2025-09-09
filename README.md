@@ -56,7 +56,7 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
 
 ## ⚡ Atividade Recente no GitHub
 <!--START_SECTION:activity-->
-1. ❌ Assigned PR [#5](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
+1. 🎉 Merged PR [#9](https://github.com/JPClow3/Portfolio/pull/9) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
 <!--END_SECTION:activity-->
 
 
