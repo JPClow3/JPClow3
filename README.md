@@ -54,6 +54,8 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
 👯‍♀️ Procuro colaborar em projetos acadêmicos
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=JPClow3&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## ⚡ Atividade Recente no GitHub
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#9](https://github.com/JPClow3/Portfolio/pull/9) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
@@ -67,6 +69,12 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:joaopaulo.grv4@gmail.com)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/joaopaulo_grv4)
 
+</div>
+<h2></h2>
+  <br>
+<img align="right" src="https://github.com/user-attachments/assets/394b315c-eac8-413b-af00-1f0f26809439" alt="coding cat" width="50%">
+
+<div align="center">
 <!-- Removed the --- -->
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/joaopaulo.grv10)
 
