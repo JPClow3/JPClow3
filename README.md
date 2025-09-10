@@ -74,7 +74,7 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
 <h1></h1>
   <br>
 <img align="right" src="https://github.com/user-attachments/assets/394b315c-eac8-413b-af00-1f0f26809439" alt="coding cat" width="100%">
-  <p align="center">
+  <p align="right">
   </div>
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p> <!-- Kept original footer, removed the second capsule wave -->
