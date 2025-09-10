@@ -73,10 +73,10 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
 <div>
 <h1></h1>
   <br>
-  <div>
 <img align="right" src="https://github.com/user-attachments/assets/394b315c-eac8-413b-af00-1f0f26809439" alt="coding cat" width="50%">
   <p align="center">
   </div>
+   <div>
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/joaopaulo.grv10)
 <p align="center">
    </div>
