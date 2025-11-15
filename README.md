@@ -58,7 +58,7 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
 
 ## ⚡ Atividade Recente no GitHub
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
+1. 💪 Opened PR [#19](undefined) in [JPClow3/League-AI-Oracle](https://github.com/JPClow3/League-AI-Oracle)
 <!--END_SECTION:activity-->
 
 
