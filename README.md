@@ -58,7 +58,7 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
 
 ## ⚡ Atividade Recente no GitHub
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](undefined) in [JPClow3/League-AI-Oracle](https://github.com/JPClow3/League-AI-Oracle)
+1. 🗣 Commented on [#1442](https://github.com/JosefNemec/Playnite/issues/1442#issuecomment-3585454477) in [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite)
 <!--END_SECTION:activity-->
 
 
