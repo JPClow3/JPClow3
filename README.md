@@ -58,7 +58,7 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
 
 ## ⚡ Atividade Recente no GitHub
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](undefined) in [JPClow3/UniRV-Django](https://github.com/JPClow3/UniRV-Django)
+1. 💪 Opened PR [#5](undefined) in [JPClow3/UniRV-Django](https://github.com/JPClow3/UniRV-Django)
 <!--END_SECTION:activity-->
 
 
