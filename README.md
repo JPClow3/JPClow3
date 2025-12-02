@@ -58,7 +58,7 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
 
 ## ⚡ Atividade Recente no GitHub
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1442](https://github.com/JosefNemec/Playnite/issues/1442#issuecomment-3585454477) in [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite)
+1. ❌ Assigned PR [#2](undefined) in [JPClow3/UniRV-Django](https://github.com/JPClow3/UniRV-Django)
 <!--END_SECTION:activity-->
 
 
