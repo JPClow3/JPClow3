@@ -58,7 +58,7 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
 
 ## ⚡ Atividade Recente no GitHub
 <!--START_SECTION:activity-->
-1.  Labeled issue [#98](https://github.com/JPClow3/pgx-platform/issues/98) in [JPClow3/pgx-platform](https://github.com/JPClow3/pgx-platform)
+1. 🗣 Commented on [#1213](https://github.com/github/spec-kit/issues/1213#issuecomment-3620490160) in [github/spec-kit](https://github.com/github/spec-kit)
 <!--END_SECTION:activity-->
 
 
