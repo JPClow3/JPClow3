@@ -58,7 +58,7 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
 
 ## ⚡ Atividade Recente no GitHub
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/JPClow3/UniRV-Django/pull/6#issuecomment-3632640717) in [JPClow3/UniRV-Django](https://github.com/JPClow3/UniRV-Django)
+1. 🗣 Commented on [#11](https://github.com/anoopsankar/Trakt2Letterboxd/pull/11#issuecomment-3699027031) in [anoopsankar/Trakt2Letterboxd](https://github.com/anoopsankar/Trakt2Letterboxd)
 <!--END_SECTION:activity-->
 
 
