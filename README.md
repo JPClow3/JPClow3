@@ -58,7 +58,7 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
 
 ## ⚡ Atividade Recente no GitHub
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#109](undefined) in [JPClow3/pgx-platform](https://github.com/JPClow3/pgx-platform)
+1. ❌ Merged PR [#11](undefined) in [JPClow3/Projeto_LoS](https://github.com/JPClow3/Projeto_LoS)
 <!--END_SECTION:activity-->
 
 
