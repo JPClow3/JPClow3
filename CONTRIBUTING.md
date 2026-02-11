@@ -32,3 +32,15 @@ python scripts/lint_markdown_offline.py
 ```
 
 Esse fallback valida o essencial para este repositório, incluindo detecção de HTML inline em Markdown (regra equivalente ao problema de `MD033/no-inline-html`).
+
+
+## Lint oficial no GitHub Actions
+
+O repositório também executa o lint oficial via workflow (`DavidAnson/markdownlint-cli2-action@v18`) em PRs/pushes.
+
+- Local (fallback sem dependências externas):
+
+  ```bash
+  python scripts/lint_markdown_offline.py
+  ```
+- Remoto (oficial): workflow `.github/workflows/markdownlint.yml`.
