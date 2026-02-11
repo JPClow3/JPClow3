@@ -10,14 +10,16 @@ Estudante de **Engenharia de Software (UniRV)**, focado em construir projetos pr
 
 ## 📊 GitHub Stats
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jpclow3&show_icons=true&theme=transparent" alt="Estatísticas do GitHub de JPClow3" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPClow3&layout=compact&theme=transparent" alt="Linguagens mais usadas" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jpclow3&amp;show_icons=true&amp;theme=transparent" alt="Estatísticas do GitHub de JPClow3" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPClow3&amp;layout=compact&amp;theme=transparent" alt="Linguagens mais usadas" />
 </p>
 
 ## 🛠️ Stack & Ferramentas
 
-![Skills](https://skillicons.dev/icons?i=ts,js,html,css,git,github,linux,gcp)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,git,github,linux,gcp" alt="Skills" />
+</p>
 
 ## ✨ Projetos em destaque
 
