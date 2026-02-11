@@ -6,9 +6,11 @@ Obrigado por considerar contribuir.
 
 1. Faça um fork do repositório.
 2. Crie uma branch para sua alteração:
+
    ```bash
    git checkout -b feat/minha-melhoria
    ```
+
 3. Faça commits claros e pequenos.
 4. Abra um Pull Request descrevendo:
    - objetivo da mudança

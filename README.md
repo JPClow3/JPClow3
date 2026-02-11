@@ -75,9 +75,13 @@ cd JPClow3
 1. ❌ Labeled PR [#3](undefined) in [JPClow3/JPClow3](https://github.com/JPClow3/JPClow3)
 <!--END_SECTION:activity-->
 
+## Animação de contribuições
+
+![Snake animation das contribuições](https://raw.githubusercontent.com/JPClow3/JPClow3/output/snake.svg)
+
 ## Contato
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/jpclow3/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/JPClow3/Portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopaulosantosgo/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JP_Clow3)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:joaopaulo.grv4@gmail.com)
@@ -85,10 +89,14 @@ cd JPClow3
 
 ## Contribuição
 
-Se quiser contribuir com melhorias neste perfil, veja: [CONTRIBUTING.md](CONTRIBUTING.md) e [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+Se quiser contribuir com melhorias neste perfil, veja
+[CONTRIBUTING.md](CONTRIBUTING.md) e
+[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
-Template reutilizável para outros repositórios: [README_TEMPLATE.md](README_TEMPLATE.md).
+Template reutilizável para outros repositórios:
+[README_TEMPLATE.md](README_TEMPLATE.md).
 
 ## Licença
 
-Este repositório está licenciado sob a licença MIT. Veja [LICENSE](LICENSE).
+Este repositório está licenciado sob a licença MIT.
+Veja [LICENSE](LICENSE).
