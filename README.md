@@ -1,16 +1,15 @@
 ## 🚀 Sobre mim
 João Paulo G. Santos
 
-Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conhecimento em C, Git, Typescript, HTML, CSS.
+Estudante em Engenharia de Software pela UniRV, apaixonado por tecnologia.
+Conhecimento em C, Git, TypeScript, HTML e CSS.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Web+Developer+;Front-End)](https://git.io/typing-svg)
 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=30A3DC&height=100§ion=header" width="100%" alt="Divider Wave">
-</p>  <!-- Fixed: §ion -> section -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=30A3DC&height=100&section=header" width="100%" alt="Divider Wave">
+</p>
 
-<!-- Start of Table for Stats and Languages -->
 <table>
   <tr>
     <td valign="top">
@@ -23,16 +22,14 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
     </td>
   </tr>
 </table>
-<!-- End of Table -->
-
 
 ## 🛠 Habilidades & Ferramentas
-![My Skills](https://skillicons.dev/icons?i=js,html,ts,css,git,webstorm,linux,github,gcp,)
+![My Skills](https://skillicons.dev/icons?i=js,html,ts,css,git,webstorm,linux,github,gcp)
 
 ## ✨ Projetos em Destaque
 
 <p align="center">
-    <a href="https://github.com/JPClow3/League-AI-Oracle">
+  <a href="https://github.com/JPClow3/League-AI-Oracle">
     <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jpclow3&repo=League-AI-Oracle&theme=transparent&show_owner=true" alt="Meu Projeto Pinado - League Oracle" />
   </a>
   <a href="https://github.com/JPClow3/Resonant-Echoes">
@@ -47,12 +44,11 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
 </p>
 
 ## Mais sobre mim
-👩‍💻 Em busca de oportunidades ...
+👩‍💻 Em busca de oportunidades...
 
-🧠 Estou aprendendo Front End e uso de AI.
+🧠 Estou aprendendo Front-end e uso de IA.
 
-👯‍♀️ Procuro colaborar em projetos acadêmicos
-
+👯‍♀️ Procuro colaborar em projetos acadêmicos.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JPClow3&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -61,20 +57,17 @@ Estudante em Engenharia de Software pela UniRV, apaixonado por tech. Conheciment
 1. 🔒 Closed issue [#33](https://github.com/JPClow3/pgx-platform/issues/33) in [JPClow3/pgx-platform](https://github.com/JPClow3/pgx-platform)
 <!--END_SECTION:activity-->
 
-
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/jpclow3/Portfolio)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopaulosantosgo/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JP_Clow3)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:joaopaulo.grv4@gmail.com)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/joaopaulo_grv4)
 
-</div>
-<div>
-<h1></h1>
-  <br>
-<img align="right" src="https://github.com/user-attachments/assets/394b315c-eac8-413b-af00-1f0f26809439" alt="coding cat" width="100%">
-  <p align="right">
-  </div>
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/394b315c-eac8-413b-af00-1f0f26809439" alt="coding cat" width="100%">
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p> <!-- Kept original footer, removed the second capsule wave -->
+</p>
