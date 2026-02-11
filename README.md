@@ -29,7 +29,7 @@ Conhecimento em C, Git, TypeScript, HTML e CSS.
 [![Projeto - UniRV-Django](https://github-readme-stats.vercel.app/api/pin/?username=jpclow3&repo=UniRV-Django&theme=transparent&show_owner=true)](https://github.com/JPClow3/UniRV-Django)
 [![Projeto - pgx-platform](https://github-readme-stats.vercel.app/api/pin/?username=jpclow3&repo=pgx-platform&theme=transparent&show_owner=true)](https://github.com/JPClow3/pgx-platform)
 
-## 👩‍💻 Mais sobre mim
+## 💻 Mais sobre mim
 
 - Em busca de oportunidades para crescer como desenvolvedor.
 - Estudando Front-end e uso de IA em projetos.
