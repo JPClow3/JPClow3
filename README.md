@@ -1,25 +1,22 @@
 # João Paulo G. Santos — Portfolio & Projetos
 
-> Perfil técnico com foco em **Front-end**, projetos acadêmicos e aplicações
-> com **IA**.
+> Perfil técnico com foco em **Front-end**, projetos acadêmicos e aplicações com **IA**.
 
-![Status](https://img.shields.io/badge/status-ativo%20%28WIP%29-orange)
+![Status](https://img.shields.io/badge/status-ativo%20(WIP)-orange)
 ![Profile Views](https://komarev.com/ghpvc/?username=JPClow3&color=0e75b6)
+![Followers](https://img.shields.io/github/followers/JPClow3?label=followers&style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/JPClow3/JPClow3)
 ![CI](https://github.com/JPClow3/JPClow3/actions/workflows/ci.yml/badge.svg)
 ![CodeQL](https://github.com/JPClow3/JPClow3/actions/workflows/codeql.yml/badge.svg)
 
-![Typing animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=2200&pause=700&color=2EA043&center=true&vCenter=true&width=650&lines=Front-end+Developer+em+evolu%C3%A7%C3%A3o;Projetos+acad%C3%AAmicos+%2B+IA+aplicada;Bem-vindo+ao+meu+perfil+%F0%9F%91%8B)
-
 ## Demo / Visual
 
-- Perfil ao vivo: [github.com/JPClow3](https://github.com/JPClow3)
-- Card dinâmico:
+- Perfil ao vivo: https://github.com/JPClow3
+- Preview rápido:
 
-![Resumo do perfil no GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JPClow3&theme=github_dark)
-
-> Se algum card externo ficar indisponível temporariamente, as seções de
-> projetos e contatos continuam como fallback principal.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jpclow3&amp;show_icons=true&amp;theme=transparent" alt="GitHub stats de JPClow3" />
+</p>
 
 ## Stack principal
 
@@ -27,28 +24,26 @@
 - **Ferramentas:** Git, GitHub, Linux, GCP
 - **Interesses atuais:** IA aplicada e desenvolvimento web
 
-![Skills de João Paulo](https://skillicons.dev/icons?i=ts,js,html,css,git,github,linux,gcp)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,git,github,linux,gcp" alt="Skills de João Paulo" />
+</p>
 
 ## Projetos em destaque
 
 ### 1) Portfolio
-
-- Link: [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
+- Link: https://github.com/jpclow3/Portfolio
 - Relevância: centraliza apresentação profissional, projetos e contato.
 
 ### 2) League-AI-Oracle
-
-- Link: [JPClow3/League-AI-Oracle](https://github.com/JPClow3/League-AI-Oracle)
+- Link: https://github.com/JPClow3/League-AI-Oracle
 - Relevância: experimentação prática com IA e análise aplicada.
 
 ### 3) Resonant-Echoes
-
-- Link: [JPClow3/Resonant-Echoes](https://github.com/JPClow3/Resonant-Echoes)
+- Link: https://github.com/JPClow3/Resonant-Echoes
 - Relevância: projeto autoral para evolução de arquitetura e produto.
 
 ### 4) Furia-Chat-Challenge
-
-- Link: [JPClow3/Furia-Chat-Challenge](https://github.com/JPClow3/Furia-Chat-Challenge)
+- Link: https://github.com/JPClow3/Furia-Chat-Challenge
 - Relevância: desafio técnico com chatbot e integração de fluxo.
 
 ## Features deste perfil
@@ -67,17 +62,17 @@ cd JPClow3
 
 ## Exemplo de uso
 
-- Recrutadores: abra a seção **Projetos em destaque**.
-- Colaboradores: consulte [CONTRIBUTING.md](CONTRIBUTING.md).
+- Recrutadores: use a seção **Projetos em destaque** para abrir os repositórios principais.
+- Colaboradores: consulte **CONTRIBUTING.md** para padrão de contribuições.
 
 ## Deploy
 
-- GitHub Profile: [github.com/JPClow3](https://github.com/JPClow3)
+- GitHub Profile: https://github.com/JPClow3
 
 ## Atividade recente
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#33](https://github.com/JPClow3/pgx-platform/issues/33) in [JPClow3/pgx-platform](https://github.com/JPClow3/pgx-platform)
+1. ❌ Labeled PR [#3](undefined) in [JPClow3/JPClow3](https://github.com/JPClow3/JPClow3)
 <!--END_SECTION:activity-->
 
 ## Animação de contribuições

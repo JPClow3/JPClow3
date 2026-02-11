@@ -12,7 +12,6 @@ Descreva em poucas linhas o que foi alterado.
 - [ ] Chore
 
 ## Checklist
-
 - [ ] README atualizado (quando aplicável)
 - [ ] Links testados
 - [ ] Sem segredos/credenciais
