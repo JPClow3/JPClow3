@@ -25,22 +25,26 @@ Obrigado por considerar contribuir.
 
 ## Validação local (ambiente restrito)
 
-Se o ambiente bloquear instalação de dependências externas (ex.: `npm`/`apt` com erro 403), rode o lint offline:
+Se o ambiente bloquear instalação de dependências externas
+(ex.: `npm`/`apt` com erro 403), rode o lint offline:
 
 ```bash
 python scripts/lint_markdown_offline.py
 ```
 
-Esse fallback valida o essencial para este repositório, incluindo detecção de HTML inline em Markdown (regra equivalente ao problema de `MD033/no-inline-html`).
-
+Esse fallback valida o essencial deste repositório, incluindo
+HTML inline em Markdown (equivalente ao erro `MD033`).
 
 ## Lint oficial no GitHub Actions
 
-O repositório também executa o lint oficial via workflow (`DavidAnson/markdownlint-cli2-action@v18`) em PRs/pushes.
+O repositório também executa o lint oficial em PRs e pushes,
+via workflow `.github/workflows/markdownlint.yml`.
 
 - Local (fallback sem dependências externas):
 
   ```bash
   python scripts/lint_markdown_offline.py
   ```
-- Remoto (oficial): workflow `.github/workflows/markdownlint.yml`.
+
+- Remoto (oficial):
+  `DavidAnson/markdownlint-cli2-action@v18`.
