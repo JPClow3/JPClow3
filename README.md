@@ -33,7 +33,7 @@ Conhecimento em C, Git, TypeScript, HTML e CSS.
 ## ⚡ Atividade Recente no GitHub
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#5](undefined) in [JPClow3/JPClow3](https://github.com/JPClow3/JPClow3)
+1. ❌ Merged PR [#6](undefined) in [JPClow3/JPClow3](https://github.com/JPClow3/JPClow3)
 <!--END_SECTION:activity-->
 
 ## 🔗 Links
