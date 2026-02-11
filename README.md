@@ -13,22 +13,11 @@ Conhecimento em C, Git, TypeScript, HTML e CSS.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Web+Developer;Front-End)](https://git.io/typing-svg)
 
-## 📊 GitHub Stats
-
-| GitHub Stats | Linguagens mais usadas |
-| --- | --- |
-| [![GitHub Stats de JPClow3](https://github-readme-stats.vercel.app/api?username=JPClow3&show_icons=true&include_all_commits=true&rank_icon=github&locale=pt-br&theme=transparent)](https://github.com/JPClow3) | [![Top linguagens de JPClow3](https://github-readme-stats.vercel.app/api/top-langs/?username=JPClow3&layout=compact&theme=transparent&langs_count=8&card_width=320&locale=pt-br)](https://github.com/JPClow3) |
-
 ## 🛠 Habilidades & Ferramentas
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,ts,css,git,linux,github,gcp)
 
 ## ✨ Projetos em destaque
-
-[![Projeto - League-AI-Oracle](https://github-readme-stats.vercel.app/api/pin/?username=jpclow3&repo=League-AI-Oracle&theme=transparent&show_owner=true)](https://github.com/JPClow3/League-AI-Oracle)
-[![Projeto - Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=jpclow3&repo=Portfolio&theme=transparent&show_owner=true)](https://github.com/JPClow3/Portfolio)
-[![Projeto - UniRV-Django](https://github-readme-stats.vercel.app/api/pin/?username=jpclow3&repo=UniRV-Django&theme=transparent&show_owner=true)](https://github.com/JPClow3/UniRV-Django)
-[![Projeto - pgx-platform](https://github-readme-stats.vercel.app/api/pin/?username=jpclow3&repo=pgx-platform&theme=transparent&show_owner=true)](https://github.com/JPClow3/pgx-platform)
 
 - 🤖 **League-AI-Oracle** → [Abrir repositório](https://github.com/JPClow3/League-AI-Oracle)
 - 🌐 **Portfolio** → [Abrir repositório](https://github.com/JPClow3/Portfolio)
@@ -40,8 +29,6 @@ Conhecimento em C, Git, TypeScript, HTML e CSS.
 - Em busca de oportunidades para crescer como desenvolvedor.
 - Estudando Front-end e uso de IA em projetos.
 - Aberto a colaborar em projetos acadêmicos e práticos.
-
-[![Trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=JPClow3&theme=darkhub&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## ⚡ Atividade Recente no GitHub
 
