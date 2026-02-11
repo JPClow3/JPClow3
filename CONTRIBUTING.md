@@ -22,3 +22,13 @@ Obrigado por considerar contribuir.
 - README consistente e sem links quebrados.
 - Linguagem clara (PT-BR ou EN, mas consistente).
 - Evitar segredos/credenciais em commits.
+
+## Validação local (ambiente restrito)
+
+Se o ambiente bloquear instalação de dependências externas (ex.: `npm`/`apt` com erro 403), rode o lint offline:
+
+```bash
+python scripts/lint_markdown_offline.py
+```
+
+Esse fallback valida o essencial para este repositório, incluindo detecção de HTML inline em Markdown (regra equivalente ao problema de `MD033/no-inline-html`).
