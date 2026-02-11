@@ -15,12 +15,9 @@ Conhecimento em C, Git, TypeScript, HTML e CSS.
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/JPClow3">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JPClow3&show_icons=true&include_all_commits=true&rank_icon=github&locale=pt-br&theme=transparent" alt="GitHub Stats de JPClow3" />
-</a>
-<a href="https://github.com/JPClow3">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPClow3&layout=compact&theme=transparent&langs_count=8&card_width=320&locale=pt-br" alt="Top linguagens de JPClow3" />
-</a>
+| GitHub Stats | Linguagens mais usadas |
+| --- | --- |
+| [![GitHub Stats de JPClow3](https://github-readme-stats.vercel.app/api?username=JPClow3&show_icons=true&include_all_commits=true&rank_icon=github&locale=pt-br&theme=transparent)](https://github.com/JPClow3) | [![Top linguagens de JPClow3](https://github-readme-stats.vercel.app/api/top-langs/?username=JPClow3&layout=compact&theme=transparent&langs_count=8&card_width=320&locale=pt-br)](https://github.com/JPClow3) |
 
 ## 🛠 Habilidades & Ferramentas
 
