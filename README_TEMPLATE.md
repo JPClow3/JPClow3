@@ -18,11 +18,13 @@
 - Deploy:
 
 ## Features
+
 - Feature 1
 - Feature 2
 - Feature 3
 
 ## Como rodar localmente
+
 ```bash
 git clone <repo>
 cd <repo>
@@ -31,6 +33,7 @@ cd <repo>
 ```
 
 ## Exemplo de uso
+
 - Endpoint/fluxo principal
 - Comando de teste rápido
 

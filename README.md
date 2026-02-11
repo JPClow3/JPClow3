@@ -1,85 +1,49 @@
 # João Paulo G. Santos — Portfolio & Projetos
 
-> Perfil técnico com foco em **Front-end**, projetos acadêmicos e aplicações com **IA**.
+<!-- markdownlint-disable MD013 -->
 
-![Status](https://img.shields.io/badge/status-ativo%20(WIP)-orange)
-![Profile Views](https://komarev.com/ghpvc/?username=JPClow3&color=0e75b6)
-![Followers](https://img.shields.io/github/followers/JPClow3?label=followers&style=social)
-![Last Commit](https://img.shields.io/github/last-commit/JPClow3/JPClow3)
-![CI](https://github.com/JPClow3/JPClow3/actions/workflows/ci.yml/badge.svg)
-![CodeQL](https://github.com/JPClow3/JPClow3/actions/workflows/codeql.yml/badge.svg)
+![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=30A3DC&height=120&section=header)
 
-## Demo / Visual
+## 🚀 Sobre mim
 
-- Perfil ao vivo: https://github.com/JPClow3
-- Preview rápido:
+### João Paulo G. Santos
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpclow3&amp;show_icons=true&amp;theme=transparent" alt="GitHub stats de JPClow3" />
-</p>
+Estudante em Engenharia de Software pela UniRV, apaixonado por tecnologia.
+Conhecimento em C, Git, TypeScript, HTML e CSS.
 
-## Stack principal
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Web+Developer;Front-End)](https://git.io/typing-svg)
 
-- **Frontend:** HTML, CSS, JavaScript, TypeScript
-- **Ferramentas:** Git, GitHub, Linux, GCP
-- **Interesses atuais:** IA aplicada e desenvolvimento web
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,git,github,linux,gcp" alt="Skills de João Paulo" />
-</p>
+[![GitHub stats de JPClow3](https://github-readme-stats.vercel.app/api?username=jpclow3&show_icons=true&theme=transparent)](https://github.com/JPClow3)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPClow3&layout=compact&theme=transparent&langs_count=8&card_width=320)](https://github.com/JPClow3)
 
-## Projetos em destaque
+## 🛠 Habilidades & Ferramentas
 
-### 1) Portfolio
-- Link: https://github.com/jpclow3/Portfolio
-- Relevância: centraliza apresentação profissional, projetos e contato.
+![My Skills](https://skillicons.dev/icons?i=js,html,ts,css,git,linux,github,gcp)
 
-### 2) League-AI-Oracle
-- Link: https://github.com/JPClow3/League-AI-Oracle
-- Relevância: experimentação prática com IA e análise aplicada.
+## ✨ Projetos em destaque
 
-### 3) Resonant-Echoes
-- Link: https://github.com/JPClow3/Resonant-Echoes
-- Relevância: projeto autoral para evolução de arquitetura e produto.
+[![Projeto - League-AI-Oracle](https://github-readme-stats.vercel.app/api/pin/?username=jpclow3&repo=League-AI-Oracle&theme=transparent&show_owner=true)](https://github.com/JPClow3/League-AI-Oracle)
+[![Projeto - Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=jpclow3&repo=Portfolio&theme=transparent&show_owner=true)](https://github.com/JPClow3/Portfolio)
+[![Projeto - UniRV-Django](https://github-readme-stats.vercel.app/api/pin/?username=jpclow3&repo=UniRV-Django&theme=transparent&show_owner=true)](https://github.com/JPClow3/UniRV-Django)
+[![Projeto - pgx-platform](https://github-readme-stats.vercel.app/api/pin/?username=jpclow3&repo=pgx-platform&theme=transparent&show_owner=true)](https://github.com/JPClow3/pgx-platform)
 
-### 4) Furia-Chat-Challenge
-- Link: https://github.com/JPClow3/Furia-Chat-Challenge
-- Relevância: desafio técnico com chatbot e integração de fluxo.
+## 💻 Mais sobre mim
 
-## Features deste perfil
+- Em busca de oportunidades para crescer como desenvolvedor.
+- Estudando Front-end e uso de IA em projetos.
+- Aberto a colaborar em projetos acadêmicos e práticos.
 
-- Curadoria dos projetos mais relevantes para recrutadores.
-- Links rápidos para portfólio, LinkedIn, contato e atividades recentes.
-- Estrutura simples e escaneável para revisão em menos de 1 minuto.
+[![Trophy](https://github-profile-trophy.vercel.app/?username=JPClow3&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Como rodar localmente (quick start)
-
-```bash
-git clone https://github.com/JPClow3/JPClow3.git
-cd JPClow3
-# Abra o README.md no VS Code ou no navegador
-```
-
-## Exemplo de uso
-
-- Recrutadores: use a seção **Projetos em destaque** para abrir os repositórios principais.
-- Colaboradores: consulte **CONTRIBUTING.md** para padrão de contribuições.
-
-## Deploy
-
-- GitHub Profile: https://github.com/JPClow3
-
-## Atividade recente
+## ⚡ Atividade Recente no GitHub
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#3](undefined) in [JPClow3/JPClow3](https://github.com/JPClow3/JPClow3)
+1. ❌ Merged PR [#109](undefined) in [JPClow3/pgx-platform](https://github.com/JPClow3/pgx-platform)
 <!--END_SECTION:activity-->
 
-## Animação de contribuições
-
-![Snake animation das contribuições](https://raw.githubusercontent.com/JPClow3/JPClow3/output/snake.svg)
-
-## Contato
+## 🔗 Links
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/JPClow3/Portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopaulosantosgo/)
@@ -100,3 +64,7 @@ Template reutilizável para outros repositórios:
 
 Este repositório está licenciado sob a licença MIT.
 Veja [LICENSE](LICENSE).
+
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=30A3DC&height=120&section=footer)
+
+<!-- markdownlint-enable MD013 -->
