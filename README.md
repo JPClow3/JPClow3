@@ -33,7 +33,7 @@
 
 ### 1) Portfolio
 
-- Link: [jpclow3/Portfolio](https://github.com/jpclow3/Portfolio)
+- Link: [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
 - Relevância: centraliza apresentação profissional, projetos e contato.
 
 ### 2) League-AI-Oracle
@@ -86,7 +86,7 @@ cd JPClow3
 
 ## Contato
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/jpclow3/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/JPClow3/Portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopaulosantosgo/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JP_Clow3)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:joaopaulo.grv4@gmail.com)
