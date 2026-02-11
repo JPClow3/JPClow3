@@ -4,25 +4,19 @@
 
 ![Status](https://img.shields.io/badge/status-ativo%20(WIP)-orange)
 ![Profile Views](https://komarev.com/ghpvc/?username=JPClow3&color=0e75b6)
+![Followers](https://img.shields.io/github/followers/JPClow3?label=followers&style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/JPClow3/JPClow3)
 ![CI](https://github.com/JPClow3/JPClow3/actions/workflows/ci.yml/badge.svg)
 ![CodeQL](https://github.com/JPClow3/JPClow3/actions/workflows/codeql.yml/badge.svg)
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=700&color=2EA043&center=true&vCenter=true&width=650&lines=Front-end+Developer+em+evolu%C3%A7%C3%A3o;Projetos+acad%C3%AAmicos+%2B+IA+aplicada;Bem-vindo+ao+meu+perfil+%F0%9F%91%8B" alt="Typing animation" />
-</p>
-
 ## Demo / Visual
 
 - Perfil ao vivo: https://github.com/JPClow3
-- Cards dinâmicos estáveis:
+- Preview rápido:
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JPClow3&theme=github_dark" alt="Resumo do perfil no GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jpclow3&amp;show_icons=true&amp;theme=transparent" alt="GitHub stats de JPClow3" />
 </p>
-
-> Se algum card externo ficar indisponível temporariamente, as seções de projetos e contatos continuam como fallback principal.
 
 ## Stack principal
 
@@ -78,15 +72,8 @@ cd JPClow3
 ## Atividade recente
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#33](https://github.com/JPClow3/pgx-platform/issues/33) in [JPClow3/pgx-platform](https://github.com/JPClow3/pgx-platform)
+1. ❌ Labeled PR [#1](undefined) in [JPClow3/JPClow3](https://github.com/JPClow3/JPClow3)
 <!--END_SECTION:activity-->
-
-
-## Animação de contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JPClow3/JPClow3/output/snake.svg" alt="Snake animation das contribuições" />
-</p>
 
 ## Contato
 
