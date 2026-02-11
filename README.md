@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mim
 
-**João Paulo G. Santos**
+### João Paulo G. Santos
 
 Estudante em Engenharia de Software pela UniRV, apaixonado por tecnologia.
 Conhecimento em C, Git, TypeScript, HTML e CSS.
@@ -16,7 +16,7 @@ Conhecimento em C, Git, TypeScript, HTML e CSS.
 ## 📊 GitHub Stats
 
 [![GitHub stats de JPClow3](https://github-readme-stats.vercel.app/api?username=jpclow3&show_icons=true&theme=transparent)](https://github.com/JPClow3)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPClow3&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&langs_count=8&card_width=320)](https://github.com/JPClow3)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPClow3&layout=compact&theme=transparent&langs_count=8&card_width=320)](https://github.com/JPClow3)
 
 ## 🛠 Habilidades & Ferramentas
 
