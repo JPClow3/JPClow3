@@ -33,7 +33,7 @@ Conhecimento em C, Git, TypeScript, HTML e CSS.
 ## ⚡ Atividade Recente no GitHub
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#11](undefined) in [JPClow3/UniRV-Django](https://github.com/JPClow3/UniRV-Django)
+1. ❌ Merged PR [#112](undefined) in [JPClow3/pgx-platform](https://github.com/JPClow3/pgx-platform)
 <!--END_SECTION:activity-->
 
 ## 🔗 Links
