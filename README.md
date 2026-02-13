@@ -33,7 +33,7 @@ Conhecimento em C, Git, TypeScript, HTML e CSS.
 ## ⚡ Atividade Recente no GitHub
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#39](https://github.com/JPClow3/pgx-platform/issues/39) in [JPClow3/pgx-platform](https://github.com/JPClow3/pgx-platform)
+1. ❌ Merged PR [#1](undefined) in [AgroHub-Uni-RV/Ypetec](https://github.com/AgroHub-Uni-RV/Ypetec)
 <!--END_SECTION:activity-->
 
 ## 🔗 Links
