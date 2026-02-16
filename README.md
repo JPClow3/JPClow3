@@ -44,6 +44,65 @@ Conhecimento em C, Git, TypeScript, HTML e CSS.
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:joaopaulo.grv4@gmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/joaopaulo_grv4)
 
+## 🪐 Plano para integrar o **Galaxy Profile** no seu README
+
+> **Importante:** este repositório atual é um README estático e não contém a estrutura do `vinimlo/galaxy-profile`.
+> Para usar os SVGs dinâmicos, o caminho mais compatível é criar/ajustar o repositório de perfil `JPClow3` (nome do repo)
+> dentro da conta `JPClow3`, com os arquivos do template Galaxy.
+
+1. **Criar o repositório de perfil**
+   - Fork de `vinimlo/galaxy-profile` (ou **Use this template**).
+   - Na tela de rename, use apenas o **nome do repositório**: `JPClow3` (sem `owner/`).
+   - Garanta que o dono do repositório seja sua conta `JPClow3`.
+
+2. **Configurar os dados pessoais**
+   - Copie `config.example.yml` para `config.yml`.
+   - Preencha: `username`, `profile.name`, `tagline`, `company`, `location`, `bio`, `social`, `galaxy_arms` e `projects`.
+   - Use os seus projetos principais (ex.: `League-AI-Oracle`, `Portfolio`, `UniRV-Django`, `pgx-platform`).
+
+3. **Ativar geração com dados reais**
+   - No workflow `.github/workflows/generate-profile.yml`, confirme que está:
+     - `run: python -m generator.main`
+   - Se estiver em demo, remova `--demo`.
+
+4. **Substituir conteúdo do README do perfil**
+   - Copie o conteúdo de `README.profile.md` para `README.md` no repositório de perfil `JPClow3`.
+   - Mantenha os 4 SVGs gerados:
+     - `assets/generated/galaxy-header.svg`
+     - `assets/generated/stats-card.svg`
+     - `assets/generated/tech-stack.svg`
+     - `assets/generated/projects-constellation.svg`
+
+5. **Executar primeira geração local (opcional, recomendado)**
+   - Execute os comandos abaixo:
+
+     ```bash
+     python3 -m venv .venv && source .venv/bin/activate
+     pip install -r requirements.txt
+     python -m generator.main
+     ```
+
+   - Verifique os SVGs em `assets/generated/`.
+
+6. **Publicar e disparar Action**
+   - Commit/push no `main`.
+   - Vá em **Actions → Generate Profile SVGs → Run workflow** para a primeira execução.
+   - Confirme se os SVGs foram atualizados e commitados pelo bot.
+
+7. **Evoluir por etapas**
+   - Semana 1: tema + bio + links sociais.
+   - Semana 2: ajustar `galaxy_arms` com suas trilhas (Web, IA, Automação etc.).
+   - Semana 3: curadoria dos projetos e descrições curtas orientadas a impacto.
+
+### Checklist rápido
+
+- [ ] Repositório de perfil criado com nome `JPClow3` na conta `JPClow3`.
+- [ ] `config.yml` personalizado com seus dados.
+- [ ] Workflow sem `--demo`.
+- [ ] README com os 4 SVGs incorporados.
+- [ ] Primeira execução da Action concluída com sucesso.
+- [ ] Perfil revisado em desktop e mobile.
+
 ## Contribuição
 
 Se quiser contribuir com melhorias neste perfil, veja
