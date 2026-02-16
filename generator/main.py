@@ -69,7 +69,9 @@ def fetch_stats(username: str, config: dict) -> dict:
             "issues": max(open_issues, total_issues),
             "repos": total_repos,
         }
-    except Exception:
+    except Exception as e:
+        # This print statement ensures errors appear in GitHub Actions logs
+        print(f"::error::Failed to fetch GitHub stats: {e}")
         return defaults
 
 
