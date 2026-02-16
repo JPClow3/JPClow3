@@ -20,16 +20,16 @@ def load_config() -> dict:
 
 
 def github_get(url: str, params: dict | None = None) -> dict | list:
+    """Generic helper for GitHub API requests."""
     query = f"?{urlencode(params)}" if params else ""
     req = Request(f"{url}{query}")
     token = os.getenv("GITHUB_TOKEN", "").strip()
     if token:
         req.add_header("Authorization", f"Bearer {token}")
-    else:
-        print("::warning::No GITHUB_TOKEN found in environment variables.")
     
+    # Standard header for most endpoints
     req.add_header("Accept", "application/vnd.github+json")
-    print(f"DEBUG: Fetching {url}...")
+    
     with urlopen(req, timeout=20) as resp:
         return json.loads(resp.read().decode("utf-8"))
 
@@ -40,59 +40,65 @@ def fetch_stats(username: str, config: dict) -> dict:
     )
 
     try:
-        print(f"DEBUG: Starting fetch for user: {username}")
-        
-        # 1. User Data
+        # 1. User Data (for total public repos)
         user_data = github_get(f"https://api.github.com/users/{username}")
         total_repos = user_data.get("public_repos", 0)
-        print(f"DEBUG: Public Repos found: {total_repos}")
 
-        # 2. Repository Data
+        # 2. Repository Data (for stars and open issues calculation)
+        # Note: This grabs the first 100 repos. If you have >100, you might need pagination,
+        # but this covers most use cases.
         repos_data = github_get(
             f"https://api.github.com/users/{username}/repos",
             {"per_page": 100, "sort": "updated"},
         )
         total_stars = sum(repo.get("stargazers_count", 0) for repo in repos_data)
-        open_issues = sum(repo.get("open_issues_count", 0) for repo in repos_data)
-        print(f"DEBUG: Total Stars: {total_stars}")
+        open_issues_count = sum(repo.get("open_issues_count", 0) for repo in repos_data)
 
-        # 3. Issues & PRs
+        # 3. Search API for PRs and Issues
+        # We use the search API to get accurate historical totals
         total_prs = github_get(
             "https://api.github.com/search/issues",
             {"q": f"author:{username} type:pr", "per_page": 1},
         ).get("total_count", 0)
-        
+
         total_issues = github_get(
             "https://api.github.com/search/issues",
             {"q": f"author:{username} type:issue", "per_page": 1},
         ).get("total_count", 0)
-        print(f"DEBUG: Total PRs: {total_prs}, Total Issues: {total_issues}")
 
-        # 4. Commits (Only Public events from last 90 days)
-        events = github_get(
-            f"https://api.github.com/users/{username}/events/public", {"per_page": 100}
-        )
-        push_events = [event for event in events if event.get("type") == "PushEvent"]
-        approx_commits = sum(
-            len(event.get("payload", {}).get("commits", [])) for event in push_events
-        )
-        print(f"DEBUG: Recent Public Commits: {approx_commits}")
+        # 4. Search API for Commits (THE FIX)
+        # The previous 'events' method only looked at the last 90 days.
+        # This searches your entire history.
+        commit_search_url = "https://api.github.com/search/commits"
+        commit_params = {"q": f"author:{username}", "per_page": 1}
+        
+        # We construct this request manually because commit search 
+        # historically required a specific preview header.
+        query = f"?{urlencode(commit_params)}"
+        req = Request(f"{commit_search_url}{query}")
+        token = os.getenv("GITHUB_TOKEN", "").strip()
+        if token:
+            req.add_header("Authorization", f"Bearer {token}")
+        
+        # This header is often required for the Commit Search API
+        req.add_header("Accept", "application/vnd.github.cloak-preview")
+        
+        with urlopen(req, timeout=20) as resp:
+            commits_data = json.loads(resp.read().decode("utf-8"))
+            total_commits = commits_data.get("total_count", 0)
 
-        stats = {
-            "commits": approx_commits,
+        print(f"DEBUG: Stats fetched -> Commits: {total_commits}, Stars: {total_stars}, PRs: {total_prs}")
+
+        return {
+            "commits": total_commits,
             "stars": total_stars,
             "prs": total_prs,
-            "issues": max(open_issues, total_issues),
+            "issues": max(open_issues_count, total_issues),
             "repos": total_repos,
         }
-        
-        print(f"DEBUG: Final Calculated Stats: {stats}")
-        return stats
-
     except Exception as e:
+        # Print the specific error so it appears in GitHub Actions logs
         print(f"::error::Failed to fetch GitHub stats: {e}")
-        import traceback
-        traceback.print_exc()
         return defaults
 
 
