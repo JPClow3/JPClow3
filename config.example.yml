@@ -1,0 +1,26 @@
+{
+  "username": "YOUR_USERNAME",
+  "profile": {
+    "name": "Seu Nome",
+    "tagline": "Seu título",
+    "company": "Sua empresa",
+    "location": "Sua localização",
+    "bio": "Sua bio"
+  },
+  "social": {
+    "email": "you@example.com",
+    "linkedin": "linkedin_handle",
+    "website": ""
+  },
+  "galaxy_arms": [
+    {"name": "Web", "color": "#a78bfa", "items": ["TypeScript", "React"]},
+    {"name": "IA", "color": "#00d4ff", "items": ["Python", "ML"]},
+    {"name": "Sistemas", "color": "#ffb020", "items": ["Linux", "Docker"]}
+  ],
+  "projects": [
+    {"repo": "YOUR_USERNAME/project-1", "arm": 0, "description": "Descrição curta"},
+    {"repo": "YOUR_USERNAME/project-2", "arm": 1, "description": "Descrição curta"}
+  ],
+  "stats": {"metrics": ["commits", "stars", "prs", "issues", "repos"]},
+  "stats_defaults": {"commits": 0, "stars": 0, "prs": 0, "issues": 0, "repos": 0}
+}
