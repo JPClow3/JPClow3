@@ -30,6 +30,9 @@ Estudante de Engenharia de Software (UniRV), com foco em desenvolvimento web, IA
 - 🐍 **UniRV-Django** — [repositório](https://github.com/JPClow3/UniRV-Django)
 - ⚙️ **pgx-platform** — [repositório](https://github.com/JPClow3/pgx-platform)
 
+- <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## 💬 Sobre
 
 - Construindo base sólida para atuar como desenvolvedor de software.
