@@ -4,18 +4,18 @@
   <g font-family="Segoe UI, Arial">
     <rect x="30" y="58" width="150" height="90" rx="10" fill="#1a2332"/>
     <text x="44" y="88" fill="#94a3b8" font-size="13">Commits</text>
-    <text x="44" y="126" fill="#00d4ff" font-size="30" font-weight="700">120</text>
+    <text x="44" y="126" fill="#00d4ff" font-size="30" font-weight="700">0</text>
     <rect x="195" y="58" width="150" height="90" rx="10" fill="#1a2332"/>
     <text x="209" y="88" fill="#94a3b8" font-size="13">Stars</text>
-    <text x="209" y="126" fill="#a78bfa" font-size="30" font-weight="700">35</text>
+    <text x="209" y="126" fill="#a78bfa" font-size="30" font-weight="700">7</text>
     <rect x="360" y="58" width="150" height="90" rx="10" fill="#1a2332"/>
     <text x="374" y="88" fill="#94a3b8" font-size="13">PRs</text>
-    <text x="374" y="126" fill="#ffb020" font-size="30" font-weight="700">42</text>
+    <text x="374" y="126" fill="#ffb020" font-size="30" font-weight="700">58</text>
     <rect x="525" y="58" width="150" height="90" rx="10" fill="#1a2332"/>
     <text x="539" y="88" fill="#94a3b8" font-size="13">Issues</text>
-    <text x="539" y="126" fill="#00d4ff" font-size="30" font-weight="700">18</text>
+    <text x="539" y="126" fill="#00d4ff" font-size="30" font-weight="700">102</text>
     <rect x="690" y="58" width="130" height="90" rx="10" fill="#1a2332"/>
     <text x="704" y="88" fill="#94a3b8" font-size="13">Repos</text>
-    <text x="704" y="126" fill="#a78bfa" font-size="30" font-weight="700">22</text>
+    <text x="704" y="126" fill="#a78bfa" font-size="30" font-weight="700">11</text>
   </g>
 </svg>
