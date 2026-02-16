@@ -4,6 +4,7 @@ from datetime import datetime, timezone
 from html import escape
 import json
 import os
+import sys
 from pathlib import Path
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
@@ -24,7 +25,11 @@ def github_get(url: str, params: dict | None = None) -> dict | list:
     token = os.getenv("GITHUB_TOKEN", "").strip()
     if token:
         req.add_header("Authorization", f"Bearer {token}")
+    else:
+        print("::warning::No GITHUB_TOKEN found in environment variables.")
+    
     req.add_header("Accept", "application/vnd.github+json")
+    print(f"DEBUG: Fetching {url}...")
     with urlopen(req, timeout=20) as resp:
         return json.loads(resp.read().decode("utf-8"))
 
@@ -35,25 +40,35 @@ def fetch_stats(username: str, config: dict) -> dict:
     )
 
     try:
+        print(f"DEBUG: Starting fetch for user: {username}")
+        
+        # 1. User Data
         user_data = github_get(f"https://api.github.com/users/{username}")
+        total_repos = user_data.get("public_repos", 0)
+        print(f"DEBUG: Public Repos found: {total_repos}")
+
+        # 2. Repository Data
         repos_data = github_get(
             f"https://api.github.com/users/{username}/repos",
             {"per_page": 100, "sort": "updated"},
         )
-
         total_stars = sum(repo.get("stargazers_count", 0) for repo in repos_data)
-        total_repos = user_data.get("public_repos", 0)
         open_issues = sum(repo.get("open_issues_count", 0) for repo in repos_data)
+        print(f"DEBUG: Total Stars: {total_stars}")
 
+        # 3. Issues & PRs
         total_prs = github_get(
             "https://api.github.com/search/issues",
             {"q": f"author:{username} type:pr", "per_page": 1},
         ).get("total_count", 0)
+        
         total_issues = github_get(
             "https://api.github.com/search/issues",
             {"q": f"author:{username} type:issue", "per_page": 1},
         ).get("total_count", 0)
+        print(f"DEBUG: Total PRs: {total_prs}, Total Issues: {total_issues}")
 
+        # 4. Commits (Only Public events from last 90 days)
         events = github_get(
             f"https://api.github.com/users/{username}/events/public", {"per_page": 100}
         )
@@ -61,17 +76,23 @@ def fetch_stats(username: str, config: dict) -> dict:
         approx_commits = sum(
             len(event.get("payload", {}).get("commits", [])) for event in push_events
         )
+        print(f"DEBUG: Recent Public Commits: {approx_commits}")
 
-        return {
+        stats = {
             "commits": approx_commits,
             "stars": total_stars,
             "prs": total_prs,
             "issues": max(open_issues, total_issues),
             "repos": total_repos,
         }
+        
+        print(f"DEBUG: Final Calculated Stats: {stats}")
+        return stats
+
     except Exception as e:
-        # This print statement ensures errors appear in GitHub Actions logs
         print(f"::error::Failed to fetch GitHub stats: {e}")
+        import traceback
+        traceback.print_exc()
         return defaults
 
 
@@ -248,6 +269,10 @@ def svg_projects(config: dict) -> str:
 
 
 def main() -> None:
+    # Ensure stdout/stderr are flushed immediately so logs appear in real-time
+    sys.stdout.reconfigure(line_buffering=True)
+    sys.stderr.reconfigure(line_buffering=True)
+
     config = load_config()
     username = config["username"]
     profile = config.get("profile", {})
