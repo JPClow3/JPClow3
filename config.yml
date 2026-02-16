@@ -1,0 +1,83 @@
+{
+  "username": "JPClow3",
+  "profile": {
+    "name": "João Paulo G. Santos",
+    "tagline": "Software Engineering Student",
+    "company": "UniRV",
+    "location": "Goiás, Brazil",
+    "bio": "Estudante em Engenharia de Software, focado em desenvolvimento web e IA aplicada."
+  },
+  "social": {
+    "email": "joaopaulo.grv4@gmail.com",
+    "linkedin": "joaopaulosantosgo",
+    "website": ""
+  },
+  "galaxy_arms": [
+    {
+      "name": "Web",
+      "color": "#a78bfa",
+      "items": [
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ]
+    },
+    {
+      "name": "IA",
+      "color": "#00d4ff",
+      "items": [
+        "Python",
+        "Modelos",
+        "Dados"
+      ]
+    },
+    {
+      "name": "Sistemas",
+      "color": "#ffb020",
+      "items": [
+        "C",
+        "Linux",
+        "Automação"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "repo": "JPClow3/League-AI-Oracle",
+      "arm": 1,
+      "description": "Projeto com IA aplicada a dados de League of Legends"
+    },
+    {
+      "repo": "JPClow3/Portfolio",
+      "arm": 0,
+      "description": "Portfólio pessoal"
+    },
+    {
+      "repo": "JPClow3/UniRV-Django",
+      "arm": 1,
+      "description": "Aplicações com Django"
+    },
+    {
+      "repo": "JPClow3/pgx-platform",
+      "arm": 2,
+      "description": "Plataforma de estudos e experimentos"
+    }
+  ],
+  "stats": {
+    "metrics": [
+      "commits",
+      "stars",
+      "prs",
+      "issues",
+      "repos"
+    ]
+  },
+  "stats_defaults": {
+    "commits": 120,
+    "stars": 35,
+    "prs": 42,
+    "issues": 18,
+    "repos": 22
+  }
+}

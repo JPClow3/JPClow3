@@ -44,6 +44,31 @@ Conhecimento em C, Git, TypeScript, HTML e CSS.
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:joaopaulo.grv4@gmail.com)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/joaopaulo_grv4)
 
+## 🪐 Galaxy Profile no README (implementado aqui)
+
+![Galaxy Header](./assets/generated/galaxy-header.svg)
+
+![Mission Telemetry](./assets/generated/stats-card.svg)
+
+![Tech Stack](./assets/generated/tech-stack.svg)
+
+![Featured Projects](./assets/generated/projects-constellation.svg)
+
+> SVGs gerados automaticamente por `python -m generator.main` com base em `config.yml` e atualizados pela workflow `.github/workflows/generate-profile.yml`.
+
+### ⚙️ Configuração já pronta neste repositório
+
+- Arquivo de configuração ativo: `config.yml`
+- Exemplo para referência: `config.example.yml`
+- Gerador: `generator/main.py`
+- Workflow automática: `.github/workflows/generate-profile.yml`
+
+Para atualizar agora manualmente:
+
+```bash
+python -m generator.main
+```
+
 ## Contribuição
 
 Se quiser contribuir com melhorias neste perfil, veja
