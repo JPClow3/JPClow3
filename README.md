@@ -31,16 +31,16 @@ Estudante de Engenharia de Software (UniRV), com foco em desenvolvimento web, IA
 - ⚙️ **pgx-platform** — [repositório](https://github.com/JPClow3/pgx-platform)
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#12](undefined) in [JPClow3/JPClow3](https://github.com/JPClow3/JPClow3)
-2. ❌ Labeled PR [#12](undefined) in [JPClow3/JPClow3](https://github.com/JPClow3/JPClow3)
-3. 💪 Opened PR [#12](undefined) in [JPClow3/JPClow3](https://github.com/JPClow3/JPClow3)
-4. ❌ Merged PR [#36](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
-5. ❌ Labeled PR [#36](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
-6. 💪 Opened PR [#36](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
-7. ❌ Merged PR [#11](undefined) in [JPClow3/JPClow3](https://github.com/JPClow3/JPClow3)
-8. ❌ Closed PR [#10](undefined) in [JPClow3/JPClow3](https://github.com/JPClow3/JPClow3)
-9. ❌ Labeled PR [#11](undefined) in [JPClow3/JPClow3](https://github.com/JPClow3/JPClow3)
-10. 💪 Opened PR [#11](undefined) in [JPClow3/JPClow3](https://github.com/JPClow3/JPClow3)
+1. ❌ Labeled PR [#114](undefined) in [JPClow3/pgx-platform](https://github.com/JPClow3/pgx-platform)
+2. 💪 Opened PR [#114](undefined) in [JPClow3/pgx-platform](https://github.com/JPClow3/pgx-platform)
+3. ❌ Merged PR [#12](undefined) in [JPClow3/JPClow3](https://github.com/JPClow3/JPClow3)
+4. ❌ Labeled PR [#12](undefined) in [JPClow3/JPClow3](https://github.com/JPClow3/JPClow3)
+5. 💪 Opened PR [#12](undefined) in [JPClow3/JPClow3](https://github.com/JPClow3/JPClow3)
+6. ❌ Merged PR [#36](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
+7. ❌ Labeled PR [#36](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
+8. 💪 Opened PR [#36](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
+9. ❌ Merged PR [#11](undefined) in [JPClow3/JPClow3](https://github.com/JPClow3/JPClow3)
+10. ❌ Closed PR [#10](undefined) in [JPClow3/JPClow3](https://github.com/JPClow3/JPClow3)
 <!--END_SECTION:activity-->
 
 ## 💬 Sobre
