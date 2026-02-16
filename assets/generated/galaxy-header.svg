@@ -1,0 +1,34 @@
+<svg width="850" height="280" viewBox="0 0 850 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Galaxy Header">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080c14"/>
+      <stop offset="100%" stop-color="#111b2e"/>
+    </linearGradient>
+    <radialGradient id="core" cx="50%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#a78bfa" stop-opacity="1"/>
+      <stop offset="40%" stop-color="#00d4ff" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="850" height="280" fill="url(#bg)"/>
+  <g opacity="0.65"> 
+    <circle cx="110" cy="40" r="1.2" fill="#f1f5f9"/>
+    <circle cx="760" cy="70" r="1.4" fill="#f1f5f9"/>
+    <circle cx="690" cy="220" r="1.1" fill="#f1f5f9"/>
+    <circle cx="200" cy="230" r="1.3" fill="#f1f5f9"/>
+  </g>
+  <g transform="translate(425 140)">
+    <ellipse rx="210" ry="70" fill="none" stroke="#a78bfa" stroke-opacity="0.35" stroke-width="1.8"/>
+    <ellipse rx="160" ry="52" fill="none" stroke="#00d4ff" stroke-opacity="0.4" stroke-width="1.6">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="40s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse rx="112" ry="34" fill="none" stroke="#ffb020" stroke-opacity="0.35" stroke-width="1.4">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="28s" repeatCount="indefinite"/>
+    </ellipse>
+    <circle r="44" fill="url(#core)">
+      <animate attributeName="r" values="42;46;42" dur="4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="425" y="145" text-anchor="middle" fill="#f1f5f9" font-family="Segoe UI, Arial" font-size="30" font-weight="700">João Paulo G. Santos</text>
+  <text x="425" y="172" text-anchor="middle" fill="#94a3b8" font-family="Segoe UI, Arial" font-size="16">Software Engineering Student</text>
+</svg>

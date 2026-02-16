@@ -1,0 +1,21 @@
+<svg width="850" height="220" viewBox="0 0 850 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Projects Constellation">
+  <rect width="850" height="220" rx="16" fill="#0f1623"/>
+  <text x="30" y="40" fill="#f1f5f9" font-family="Segoe UI, Arial" font-size="24" font-weight="700">Featured Systems</text>
+  <g stroke="#334155" stroke-width="1.2" fill="none" opacity="0.8">
+    <path d="M95 130 L280 90 L470 140 L665 100"/>
+  </g>
+  <g font-family="Segoe UI, Arial">
+    <circle cx="95" cy="130" r="8" fill="#00d4ff"/>
+    <circle cx="280" cy="90" r="8" fill="#a78bfa"/>
+    <circle cx="470" cy="140" r="8" fill="#ffb020"/>
+    <circle cx="665" cy="100" r="8" fill="#00d4ff"/>
+    <text x="95" y="156" text-anchor="middle" fill="#cbd5e1" font-size="12">League-AI-Oracle</text>
+    <text x="95" y="172" text-anchor="middle" fill="#64748b" font-size="10">Projeto com IA aplicada a dados de League of Leg</text>
+    <text x="280" y="116" text-anchor="middle" fill="#cbd5e1" font-size="12">Portfolio</text>
+    <text x="280" y="132" text-anchor="middle" fill="#64748b" font-size="10">Portfólio pessoal</text>
+    <text x="470" y="166" text-anchor="middle" fill="#cbd5e1" font-size="12">UniRV-Django</text>
+    <text x="470" y="182" text-anchor="middle" fill="#64748b" font-size="10">Aplicações com Django</text>
+    <text x="665" y="126" text-anchor="middle" fill="#cbd5e1" font-size="12">pgx-platform</text>
+    <text x="665" y="142" text-anchor="middle" fill="#64748b" font-size="10">Plataforma de estudos e experimentos</text>
+  </g>
+</svg>
