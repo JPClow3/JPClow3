@@ -53,21 +53,6 @@ Estudante de Engenharia de Software (UniRV), com foco em desenvolvimento web, IA
 
 ![Featured Projects](./assets/generated/projects-constellation.svg)
 
-> SVGs gerados automaticamente por `python -m generator.main` com base em `config.yml` e atualizados pela workflow `.github/workflows/generate-profile.yml`.
-
-### ⚙️ Configuração já pronta neste repositório
-
-- Arquivo de configuração ativo: `config.yml`
-- Exemplo para referência: `config.example.yml`
-- Gerador: `generator/main.py`
-- Workflow automática: `.github/workflows/generate-profile.yml`
-
-Para atualizar agora manualmente:
-
-```bash
-python -m generator.main
-```
-
 ## Contribuição
 
 Se quiser contribuir com melhorias neste perfil, veja
