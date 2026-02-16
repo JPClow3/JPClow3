@@ -18,79 +18,15 @@ def load_config() -> dict:
     return json.loads(CONFIG_FILE.read_text(encoding="utf-8"))
 
 
-def get_github_token() -> str:
-    return os.getenv("GH_STATS_TOKEN", "").strip() or os.getenv("GITHUB_TOKEN", "").strip()
-
-
-def github_get(url: str, params: dict | None = None, accept: str = "application/vnd.github+json") -> dict | list:
+def github_get(url: str, params: dict | None = None) -> dict | list:
     query = f"?{urlencode(params)}" if params else ""
     req = Request(f"{url}{query}")
-    token = get_github_token()
+    token = os.getenv("GITHUB_TOKEN", "").strip()
     if token:
         req.add_header("Authorization", f"Bearer {token}")
-    req.add_header("Accept", accept)
-    req.add_header("User-Agent", "JPClow3-galaxy-profile-generator")
+    req.add_header("Accept", "application/vnd.github+json")
     with urlopen(req, timeout=20) as resp:
         return json.loads(resp.read().decode("utf-8"))
-
-
-def github_graphql(query: str, variables: dict) -> dict:
-    req = Request("https://api.github.com/graphql", method="POST")
-    token = get_github_token()
-    if not token:
-        raise RuntimeError("Token required for GraphQL stats")
-    req.add_header("Authorization", f"Bearer {token}")
-    req.add_header("Accept", "application/vnd.github+json")
-    req.add_header("User-Agent", "JPClow3-galaxy-profile-generator")
-    req.add_header("Content-Type", "application/json")
-    payload = json.dumps({"query": query, "variables": variables}).encode("utf-8")
-    with urlopen(req, data=payload, timeout=20) as resp:
-        data = json.loads(resp.read().decode("utf-8"))
-    if data.get("errors"):
-        raise RuntimeError(f"GraphQL errors: {data['errors']}")
-    return data["data"]
-
-
-def fetch_commit_count(username: str, created_at: str) -> int:
-    """Prefer GraphQL contribution totals, fallback to commit search, then events."""
-    now = datetime.now(tz=timezone.utc).isoformat().replace("+00:00", "Z")
-    commits = 0
-
-    if get_github_token():
-        data = github_graphql(
-            """
-            query($login: String!, $from: DateTime!, $to: DateTime!) {
-              user(login: $login) {
-                contributionsCollection(from: $from, to: $to) {
-                  totalCommitContributions
-                }
-              }
-            }
-            """,
-            {"login": username, "from": created_at, "to": now},
-        )
-        commits = (
-            data.get("user", {})
-            .get("contributionsCollection", {})
-            .get("totalCommitContributions", 0)
-        )
-
-    if commits <= 0:
-        search = github_get(
-            "https://api.github.com/search/commits",
-            {"q": f"author:{username}", "per_page": 1},
-            accept="application/vnd.github+json, application/vnd.github.cloak-preview",
-        )
-        commits = int(search.get("total_count", 0))
-
-    if commits <= 0:
-        events = github_get(
-            f"https://api.github.com/users/{username}/events/public", {"per_page": 100}
-        )
-        push_events = [event for event in events if event.get("type") == "PushEvent"]
-        commits = sum(len(event.get("payload", {}).get("commits", [])) for event in push_events)
-
-    return commits
 
 
 def fetch_stats(username: str, config: dict) -> dict:
@@ -118,11 +54,16 @@ def fetch_stats(username: str, config: dict) -> dict:
             {"q": f"author:{username} type:issue", "per_page": 1},
         ).get("total_count", 0)
 
-        created_at = user_data.get("created_at", "2008-01-01T00:00:00Z")
-        commit_count = fetch_commit_count(username, created_at)
+        events = github_get(
+            f"https://api.github.com/users/{username}/events/public", {"per_page": 100}
+        )
+        push_events = [event for event in events if event.get("type") == "PushEvent"]
+        approx_commits = sum(
+            len(event.get("payload", {}).get("commits", [])) for event in push_events
+        )
 
         return {
-            "commits": commit_count,
+            "commits": approx_commits,
             "stars": total_stars,
             "prs": total_prs,
             "issues": max(open_issues, total_issues),
