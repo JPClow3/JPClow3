@@ -10,7 +10,7 @@
     <text x="209" y="126" fill="#a78bfa" font-size="30" font-weight="700">7</text>
     <rect x="360" y="58" width="150" height="90" rx="10" fill="#1a2332"/>
     <text x="374" y="88" fill="#94a3b8" font-size="13">PRs</text>
-    <text x="374" y="126" fill="#ffb020" font-size="30" font-weight="700">59</text>
+    <text x="374" y="126" fill="#ffb020" font-size="30" font-weight="700">57</text>
     <rect x="525" y="58" width="150" height="90" rx="10" fill="#1a2332"/>
     <text x="539" y="88" fill="#94a3b8" font-size="13">Issues</text>
     <text x="539" y="126" fill="#00d4ff" font-size="30" font-weight="700">102</text>
