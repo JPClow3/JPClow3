@@ -31,16 +31,16 @@ Estudante de Engenharia de Software (UniRV), com foco em desenvolvimento web, IA
 - ⚙️ **pgx-platform** — [repositório](https://github.com/JPClow3/pgx-platform)
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#120](undefined) in [JPClow3/pgx-platform](https://github.com/JPClow3/pgx-platform)
-2. ❌ Merged PR [#119](undefined) in [JPClow3/pgx-platform](https://github.com/JPClow3/pgx-platform)
-3. ❌ Merged PR [#118](undefined) in [JPClow3/pgx-platform](https://github.com/JPClow3/pgx-platform)
-4. ❌ Merged PR [#116](undefined) in [JPClow3/pgx-platform](https://github.com/JPClow3/pgx-platform)
-5. ❌ Merged PR [#117](undefined) in [JPClow3/pgx-platform](https://github.com/JPClow3/pgx-platform)
-6. ❌ Merged PR [#115](undefined) in [JPClow3/pgx-platform](https://github.com/JPClow3/pgx-platform)
-7. ❌ Merged PR [#114](undefined) in [JPClow3/pgx-platform](https://github.com/JPClow3/pgx-platform)
-8. ❌ Labeled PR [#120](undefined) in [JPClow3/pgx-platform](https://github.com/JPClow3/pgx-platform)
-9. 💪 Opened PR [#120](undefined) in [JPClow3/pgx-platform](https://github.com/JPClow3/pgx-platform)
-10. ❌ Labeled PR [#119](undefined) in [JPClow3/pgx-platform](https://github.com/JPClow3/pgx-platform)
+1. 🗣 Commented on [#4867](https://github.com/openai/codex/issues/4867#issuecomment-3914153647) in [openai/codex](https://github.com/openai/codex)
+2. ❌ Merged PR [#120](undefined) in [JPClow3/pgx-platform](https://github.com/JPClow3/pgx-platform)
+3. ❌ Merged PR [#119](undefined) in [JPClow3/pgx-platform](https://github.com/JPClow3/pgx-platform)
+4. ❌ Merged PR [#118](undefined) in [JPClow3/pgx-platform](https://github.com/JPClow3/pgx-platform)
+5. ❌ Merged PR [#116](undefined) in [JPClow3/pgx-platform](https://github.com/JPClow3/pgx-platform)
+6. ❌ Merged PR [#117](undefined) in [JPClow3/pgx-platform](https://github.com/JPClow3/pgx-platform)
+7. ❌ Merged PR [#115](undefined) in [JPClow3/pgx-platform](https://github.com/JPClow3/pgx-platform)
+8. ❌ Merged PR [#114](undefined) in [JPClow3/pgx-platform](https://github.com/JPClow3/pgx-platform)
+9. ❌ Labeled PR [#120](undefined) in [JPClow3/pgx-platform](https://github.com/JPClow3/pgx-platform)
+10. 💪 Opened PR [#120](undefined) in [JPClow3/pgx-platform](https://github.com/JPClow3/pgx-platform)
 <!--END_SECTION:activity-->
 
 ## 💬 Sobre
