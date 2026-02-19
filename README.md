@@ -14,9 +14,7 @@ Estudante de Engenharia de Software (UniRV), com foco em desenvolvimento web, IA
 
 ## 🛠 Stack & foco
 
-![Tech Stack](./assets/generated/tech-stack.svg)
-
-![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,python,c,git,github,linux,docker)
+![My Skills](https://skillicons.dev/icons?i=ts,js,tailwind,astro,vscode,html,css,python,c,git,github,linux,docker)
 
 - **Core:** TypeScript, HTML/CSS, Git e Linux
 - **Foco atual:** IA aplicada, automações e arquitetura de sistemas
