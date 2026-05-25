@@ -29,16 +29,16 @@ Estudante de Engenharia de Software (UniRV), com foco em desenvolvimento web, IA
 - ⚙️ **pgx-platform** — [repositório](https://github.com/JPClow3/pgx-platform)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](undefined) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
-2. ❌ Merged PR [#7](undefined) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
-3. 💪 Opened PR [#7](undefined) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
-4. ❌ Merged PR [#6](undefined) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
-5. 💪 Opened PR [#6](undefined) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
-6. ❌ Merged PR [#5](undefined) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
-7. 🗣 Commented on [#5](https://github.com/JPClow3/moto_track/pull/5#issuecomment-4367648185) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
-8. 💪 Opened PR [#5](undefined) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
-9. ❌ Merged PR [#4](undefined) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
-10. 💪 Opened PR [#4](undefined) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
+1. ❌ Merged PR [#8](undefined) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
+2. 💪 Opened PR [#8](undefined) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
+3. ❌ Merged PR [#7](undefined) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
+4. 💪 Opened PR [#7](undefined) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
+5. ❌ Merged PR [#6](undefined) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
+6. 💪 Opened PR [#6](undefined) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
+7. ❌ Merged PR [#5](undefined) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
+8. 🗣 Commented on [#5](https://github.com/JPClow3/moto_track/pull/5#issuecomment-4367648185) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
+9. 💪 Opened PR [#5](undefined) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
+10. ❌ Merged PR [#4](undefined) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
 <!--END_SECTION:activity-->
 
 ## 💬 Sobre
