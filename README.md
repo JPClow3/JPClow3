@@ -29,16 +29,16 @@ Estudante de Engenharia de Software (UniRV), com foco em desenvolvimento web, IA
 - ⚙️ **pgx-platform** — [repositório](https://github.com/JPClow3/pgx-platform)
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#1](undefined) in [JPClow3/Throughline](https://github.com/JPClow3/Throughline)
-2. ❌ Merged PR [#65](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
-3. ❌ Merged PR [#62](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
-4. ❌ Merged PR [#64](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
-5. ❌ Merged PR [#66](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
-6. 💪 Opened PR [#1](undefined) in [JPClow3/Throughline](https://github.com/JPClow3/Throughline)
-7. ❌ Merged PR [#1](undefined) in [JPClow3/Project-Ball](https://github.com/JPClow3/Project-Ball)
-8. 💪 Opened PR [#1](undefined) in [JPClow3/Project-Ball](https://github.com/JPClow3/Project-Ball)
-9. 💪 Opened PR [#8](undefined) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
-10. ❌ Merged PR [#6](undefined) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
+1. ❌ Merged PR [#69](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
+2. ❌ Merged PR [#71](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
+3. ❌ Merged PR [#67](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
+4. ❌ Merged PR [#70](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
+5. ❌ Merged PR [#68](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
+6. ❌ Merged PR [#1](undefined) in [JPClow3/Throughline](https://github.com/JPClow3/Throughline)
+7. ❌ Merged PR [#65](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
+8. ❌ Merged PR [#62](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
+9. ❌ Merged PR [#64](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
+10. ❌ Merged PR [#66](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
 <!--END_SECTION:activity-->
 
 ## 💬 Sobre
