@@ -46,12 +46,12 @@
     {
       "repo": "JPClow3/moto_track",
       "arm": 1,
-      "description": "SaaS de gestão de manutenção de motos (SvelteKit, Supabase, Cloudflare)"
+      "description": "Gestão de manutenção de motos (SaaS)"
     },
     {
       "repo": "JPClow3/Throughline",
       "arm": 0,
-      "description": "Planner local-first com sync criptografado ponta a ponta"
+      "description": "Planner local-first com sync E2E"
     },
     {
       "repo": "JPClow3/Project-Ball",
