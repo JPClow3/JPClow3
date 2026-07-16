@@ -5,12 +5,12 @@
     "tagline": "Software Engineering Student",
     "company": "UniRV",
     "location": "Goiás, Brazil",
-    "bio": "Estudante em Engenharia de Software, focado em desenvolvimento web e IA aplicada."
+    "bio": "Estudante em Engenharia de Software, construindo produtos full-stack (web, SaaS e Web3) com foco em qualidade e automação."
   },
   "social": {
     "email": "joaopaulo.grv4@gmail.com",
     "linkedin": "joaopaulosantosgo",
-    "website": ""
+    "website": "https://jpclow.dev"
   },
   "galaxy_arms": [
     {
@@ -18,50 +18,50 @@
       "color": "#a78bfa",
       "items": [
         "TypeScript",
-        "HTML",
-        "CSS",
-        "Git"
+        "React",
+        "Svelte",
+        "Astro"
       ]
     },
     {
-      "name": "IA",
+      "name": "Backend & Data",
       "color": "#00d4ff",
       "items": [
         "Python",
-        "Modelos",
-        "Dados"
+        "Supabase",
+        "PostgreSQL"
       ]
     },
     {
-      "name": "Sistemas",
+      "name": "Infra & Web3",
       "color": "#ffb020",
       "items": [
-        "C",
-        "Linux",
-        "Automação"
+        "Docker",
+        "Cloudflare",
+        "Solidity"
       ]
     }
   ],
   "projects": [
     {
-      "repo": "JPClow3/League-AI-Oracle",
+      "repo": "JPClow3/moto_track",
       "arm": 1,
-      "description": "Projeto com IA aplicada a dados de League of Legends"
+      "description": "SaaS de gestão de manutenção de motos (SvelteKit, Supabase, Cloudflare)"
+    },
+    {
+      "repo": "JPClow3/Throughline",
+      "arm": 0,
+      "description": "Planner local-first com sync criptografado ponta a ponta"
+    },
+    {
+      "repo": "JPClow3/Project-Ball",
+      "arm": 2,
+      "description": "dApp de palpites esportivos na blockchain Celo"
     },
     {
       "repo": "JPClow3/Portfolio",
       "arm": 0,
-      "description": "Portfólio pessoal"
-    },
-    {
-      "repo": "JPClow3/UniRV-Django",
-      "arm": 1,
-      "description": "Aplicações com Django"
-    },
-    {
-      "repo": "JPClow3/pgx-platform",
-      "arm": 2,
-      "description": "Plataforma de estudos e experimentos"
+      "description": "Site pessoal e portfólio"
     }
   ],
   "stats": {
@@ -75,9 +75,9 @@
   },
   "stats_defaults": {
     "commits": 120,
-    "stars": 35,
+    "stars": 7,
     "prs": 42,
     "issues": 18,
-    "repos": 22
+    "repos": 11
   }
 }
