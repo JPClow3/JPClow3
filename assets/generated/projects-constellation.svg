@@ -10,9 +10,9 @@
     <circle cx="470" cy="140" r="8" fill="#ffb020"/>
     <circle cx="665" cy="100" r="8" fill="#00d4ff"/>
     <text x="95" y="156" text-anchor="middle" fill="#cbd5e1" font-size="12">moto_track</text>
-    <text x="95" y="172" text-anchor="middle" fill="#64748b" font-size="10">SaaS de gestão de manutenção de motos (SvelteKit</text>
+    <text x="95" y="172" text-anchor="middle" fill="#64748b" font-size="10">Gestão de manutenção de motos (SaaS)</text>
     <text x="280" y="116" text-anchor="middle" fill="#cbd5e1" font-size="12">Throughline</text>
-    <text x="280" y="132" text-anchor="middle" fill="#64748b" font-size="10">Planner local-first com sync criptografado ponta</text>
+    <text x="280" y="132" text-anchor="middle" fill="#64748b" font-size="10">Planner local-first com sync E2E</text>
     <text x="470" y="166" text-anchor="middle" fill="#cbd5e1" font-size="12">Project-Ball</text>
     <text x="470" y="182" text-anchor="middle" fill="#64748b" font-size="10">dApp de palpites esportivos na blockchain Celo</text>
     <text x="665" y="126" text-anchor="middle" fill="#cbd5e1" font-size="12">Portfolio</text>
