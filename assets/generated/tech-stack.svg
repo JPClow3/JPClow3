@@ -5,19 +5,19 @@
     <text x="30" y="78" fill="#94a3b8" font-size="13">TypeScript</text>
     <rect x="130" y="65" width="600" height="12" rx="6" fill="#1a2332"/>
     <rect x="130" y="65" width="380" height="12" rx="6" fill="#a78bfa"/>
-    <text x="30" y="108" fill="#94a3b8" font-size="13">HTML</text>
+    <text x="30" y="108" fill="#94a3b8" font-size="13">React</text>
     <rect x="130" y="95" width="600" height="12" rx="6" fill="#1a2332"/>
     <rect x="130" y="95" width="345" height="12" rx="6" fill="#a78bfa"/>
     <text x="30" y="138" fill="#94a3b8" font-size="13">Python</text>
     <rect x="130" y="125" width="600" height="12" rx="6" fill="#1a2332"/>
     <rect x="130" y="125" width="310" height="12" rx="6" fill="#00d4ff"/>
-    <text x="30" y="168" fill="#94a3b8" font-size="13">Modelos</text>
+    <text x="30" y="168" fill="#94a3b8" font-size="13">Supabase</text>
     <rect x="130" y="155" width="600" height="12" rx="6" fill="#1a2332"/>
     <rect x="130" y="155" width="275" height="12" rx="6" fill="#00d4ff"/>
-    <text x="30" y="198" fill="#94a3b8" font-size="13">C</text>
+    <text x="30" y="198" fill="#94a3b8" font-size="13">Docker</text>
     <rect x="130" y="185" width="600" height="12" rx="6" fill="#1a2332"/>
     <rect x="130" y="185" width="240" height="12" rx="6" fill="#ffb020"/>
-    <text x="30" y="228" fill="#94a3b8" font-size="13">Linux</text>
+    <text x="30" y="228" fill="#94a3b8" font-size="13">Cloudflare</text>
     <rect x="130" y="215" width="600" height="12" rx="6" fill="#1a2332"/>
     <rect x="130" y="215" width="205" height="12" rx="6" fill="#ffb020"/>
   </g>
