@@ -41,6 +41,10 @@ Estudante de Engenharia de Software (UniRV), com foco em desenvolvimento web, IA
 10. ❌ Merged PR [#66](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
 <!--END_SECTION:activity-->
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/JPClow3/JPClow3/output/snake.svg)
+
 ## 💬 Sobre
 
 - Construindo base sólida para atuar como desenvolvedor de software.
