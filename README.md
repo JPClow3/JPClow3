@@ -29,16 +29,16 @@ Estudante de Engenharia de Software (UniRV), com foco em desenvolvimento web, IA
 - 🌐 **Portfolio** — site pessoal e portfólio (React/Astro + GSAP) — [repositório](https://github.com/JPClow3/Portfolio) · [live](https://jpclow.dev)
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#69](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
-2. ❌ Merged PR [#71](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
-3. ❌ Merged PR [#67](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
-4. ❌ Merged PR [#70](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
-5. ❌ Merged PR [#68](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
-6. ❌ Merged PR [#1](undefined) in [JPClow3/Throughline](https://github.com/JPClow3/Throughline)
-7. ❌ Merged PR [#65](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
-8. ❌ Merged PR [#62](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
-9. ❌ Merged PR [#64](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
-10. ❌ Merged PR [#66](undefined) in [JPClow3/Portfolio](https://github.com/JPClow3/Portfolio)
+1. ❌ Merged PR [#13](undefined) in [JPClow3/JPClow3](https://github.com/JPClow3/JPClow3)
+2. ❌ Merged PR [#12](undefined) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
+3. 💪 Opened PR [#13](undefined) in [JPClow3/JPClow3](https://github.com/JPClow3/JPClow3)
+4. 💪 Opened PR [#12](undefined) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
+5. ❌ Merged PR [#11](undefined) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
+6. 💪 Opened PR [#11](undefined) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
+7. ❌ Merged PR [#10](undefined) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
+8. 💪 Opened PR [#10](undefined) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
+9. ❌ Merged PR [#9](undefined) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
+10. 💪 Opened PR [#9](undefined) in [JPClow3/moto_track](https://github.com/JPClow3/moto_track)
 <!--END_SECTION:activity-->
 
 ## 🐍 Contribution Snake
