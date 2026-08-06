@@ -38,7 +38,8 @@
       "items": [
         "Docker",
         "Cloudflare",
-        "Solidity"
+        "Solidity",
+        "Rust"
       ]
     }
   ],
@@ -49,14 +50,19 @@
       "description": "Gestão de manutenção de motos (SaaS)"
     },
     {
+      "repo": "JPClow3/supersonic-tx",
+      "arm": 2,
+      "description": "Toolkit Rust/Solana anti-fingerprinting"
+    },
+    {
+      "repo": "JPClow3/League-AI-Oracle",
+      "arm": 0,
+      "description": "Copiloto de IA para draft de LoL"
+    },
+    {
       "repo": "JPClow3/Throughline",
       "arm": 0,
       "description": "Planner local-first com sync E2E"
-    },
-    {
-      "repo": "JPClow3/Project-Ball",
-      "arm": 2,
-      "description": "dApp de palpites esportivos na blockchain Celo"
     },
     {
       "repo": "JPClow3/Portfolio",
