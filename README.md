@@ -14,18 +14,19 @@ Estudante de Engenharia de Software (UniRV), com foco em desenvolvimento web, IA
 
 ## 🛠 Stack & foco
 
-![My Skills](https://skillicons.dev/icons?i=ts,js,react,svelte,astro,tailwind,vite,supabase,cloudflare,docker,solidity,python,c,git,github,linux,html,css,vscode)
+![My Skills](https://skillicons.dev/icons?i=ts,js,react,svelte,astro,tailwind,vite,supabase,cloudflare,docker,solidity,rust,python,c,git,github,linux,html,css,vscode)
 
 - **Core:** TypeScript, React, Svelte, Astro, Tailwind CSS
-- **Foco atual:** produtos full-stack (Supabase, Cloudflare, Docker), automações e experimentação com Web3 (Solidity)
+- **Foco atual:** produtos full-stack (Supabase, Cloudflare, Docker), automações e experimentação com Web3 (Solidity, Solana/Rust)
 
 ## ✨ Projetos
 
 ![Featured Projects](./assets/generated/projects-constellation.svg)
 
 - 🏍️ **moto_track** — SaaS de gestão de manutenção de motos (SvelteKit + Supabase + Cloudflare) — [repositório](https://github.com/JPClow3/moto_track)
+- ⚡ **supersonic-tx** — toolkit em Rust que ofusca transferências Solana com ruído comportamental realista (Anchor + Solana) — [repositório](https://github.com/JPClow3/supersonic-tx)
+- 🧠 **League-AI-Oracle** — copiloto estratégico de IA para draft de League of Legends (React + Gemini API) — [repositório](https://github.com/JPClow3/League-AI-Oracle)
 - 🧭 **Throughline** — planner local-first com sync criptografado ponta a ponta (React + IndexedDB) — [repositório](https://github.com/JPClow3/Throughline)
-- ⚽ **Project-Ball** — dApp de palpites esportivos na blockchain Celo (Astro + Solidity) — [repositório](https://github.com/JPClow3/Project-Ball)
 - 🌐 **Portfolio** — site pessoal e portfólio (React/Astro + GSAP) — [repositório](https://github.com/JPClow3/Portfolio) · [live](https://jpclow.dev)
 
 <!--START_SECTION:activity-->
