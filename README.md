@@ -1,6 +1,6 @@
 # João Paulo Gonçalves Santos
 
-Full-stack product engineer in Brazil. I build web apps, automation, data systems, and AI products—from discovery through deployment. Available for freelance work.
+Full-stack product engineer and freelance developer based in Rio Verde, Goiás, Brazil. I build web apps, automation, data systems, and practical AI products. Available for freelance work through [jpclow.dev](https://jpclow.dev).
 
 ![Galaxy Header](./assets/generated/galaxy-header.svg)
 
