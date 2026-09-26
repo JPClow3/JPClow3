@@ -29,6 +29,6 @@
       <animate attributeName="r" values="42;46;42" dur="4s" repeatCount="indefinite"/>
     </circle>
   </g>
-  <text x="425" y="145" text-anchor="middle" fill="#f1f5f9" font-family="Segoe UI, Arial" font-size="30" font-weight="700">João Paulo G. Santos</text>
-  <text x="425" y="172" text-anchor="middle" fill="#94a3b8" font-family="Segoe UI, Arial" font-size="16">Software Engineering Student</text>
+  <text x="425" y="145" text-anchor="middle" fill="#f1f5f9" font-family="Segoe UI, Arial" font-size="30" font-weight="700">João Paulo Gonçalves Santos</text>
+  <text x="425" y="172" text-anchor="middle" fill="#94a3b8" font-family="Segoe UI, Arial" font-size="16">Full-Stack Product Engineer · Freelance Developer</text>
 </svg>
