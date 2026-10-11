@@ -56,4 +56,4 @@ selected experiments and client-facing work here as they become ready.
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/JPClow3/JPClow3/output/snake.svg)
+![Snake animation](assets/generated/snake.svg)

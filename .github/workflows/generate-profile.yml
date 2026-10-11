@@ -9,6 +9,10 @@ on:
       - "config.yml"
       - "generator/**"
 
+concurrency:
+  group: profile-main-writes
+  cancel-in-progress: false
+
 jobs:
   generate:
     name: Generate galaxy profile assets
@@ -17,6 +21,8 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -34,5 +40,6 @@ jobs:
           git add assets/generated/
           if ! git diff --staged --quiet; then
             git commit -m "chore: update profile SVGs [skip ci]"
-            git push
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
