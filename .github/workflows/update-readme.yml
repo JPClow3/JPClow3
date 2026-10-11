@@ -1,12 +1,17 @@
 name: Update README Activity
 
 on:
-  # Run automatically every hour
+  # Refresh activity weekly, alongside the other queued profile writers.
   schedule:
     - cron: "0 0 * * 1" 
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+
+concurrency:
+  group: profile-main-writes
+  queue: max
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -21,6 +26,8 @@ jobs:
       # Step 1: Check out your repository's code so the workflow can access the README.md
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       # Step 2: Run the Action to update the README
       # Use the specific version v0.4.5 as recommended
