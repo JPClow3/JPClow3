@@ -1,7 +1,7 @@
 name: Update README Activity
 
 on:
-  # Run automatically every hour
+  # Refresh activity weekly, alongside the other queued profile writers.
   schedule:
     - cron: "0 0 * * 1" 
 
@@ -10,6 +10,7 @@ on:
 
 concurrency:
   group: profile-main-writes
+  queue: max
   cancel-in-progress: false
 
 jobs:

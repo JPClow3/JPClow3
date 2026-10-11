@@ -10,6 +10,7 @@ permissions:
 
 concurrency:
   group: profile-main-writes
+  queue: max
   cancel-in-progress: false
 
 jobs:
